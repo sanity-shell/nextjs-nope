@@ -1,1 +1,5 @@
-{}
+{
+  "dependencies": {
+    "next": "14.3.0-canary.77"
+  }
+}
